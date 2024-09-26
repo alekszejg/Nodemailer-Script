@@ -1,9 +1,9 @@
 # Nodemailer-Script
 DESCRIPTION
-A script I made for sending emails to myself or other people. It's surely useful somewhere
+- A script I made for sending emails to myself or other people. It's surely useful somewhere
 
 HOW IT WORKS
-In script.ts file execute the function sendEmail("gmail", subject, text). It needs 3 arguments: email service being used to authorize sender, which is currently only "gmail", email's subject and email's text/body
+- In script.ts file execute the function sendEmail("gmail", subject, text). It needs 3 arguments: email service being used to authorize sender, which is currently only "gmail", email's subject and email's text/body
 
 PREPARATION AND SETUP
 1) Install Typescript and basic types 
